@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+.h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
